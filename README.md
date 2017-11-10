@@ -56,3 +56,8 @@ Changelog
 
 5/02/2011
 	Released version 1.1 implementing a way to disable the random seeding
+	
+Authors
+============	
+
+Antonio Vergari, Francesco Tangari
